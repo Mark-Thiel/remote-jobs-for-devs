@@ -50,5 +50,3 @@
 25 - https://loka.com/careers#openings (for everybody)
 
 26 - https://personal-jdln7y76.outsystemscloud.com/VagasTI/Vagas (for brazilians)
-
-27 - https://t.me/CafeinaVagas (for brazilians)
