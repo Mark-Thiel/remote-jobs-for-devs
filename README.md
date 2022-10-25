@@ -1,52 +1,54 @@
 # List of platforms that offer job vacancies list for remote work
-1 - https://flatworld.co/jobs/ (for everybody)
+1 - https://flatworld.co/jobs/ 
 
-2 - https://www.revelo.com.br/para-candidatos (for brasilians)
+2 - https://www.revelo.com.br/para-candidatos
 
-3 - https://impulso.network/lista-de-oportunidades (for brasilians)
+3 - https://impulso.network/lista-de-oportunidades
 
-4 - https://www.workingnomads.co/jobs (for everybody)
+4 - https://www.workingnomads.co/jobs 
 
-5 - https://remotive.io/ (for everybody)
+5 - https://remotive.io/ 
 
-6 - https://remoteok.com/ (for everybody)
+6 - https://remoteok.com/ 
 
-7 - https://nodesk.co/remote-jobs/ (for everybody)
+7 - https://nodesk.co/remote-jobs/ 
 
-8 - https://programathor.com.br/ (for brasilians)
+8 - https://programathor.com.br/
 
-9 - https://stackoverflow.com/jobs/remote-developer-jobs (for everybody)
+9 - https://stackoverflow.com/jobs/remote-developer-jobs 
 
-10 - https://arc.dev/remote-jobs (for everybody)
+10 - https://arc.dev/remote-jobs 
 
-11 - https://www.turing.com/remote-developer-jobs (for everybody)
+11 - https://www.turing.com/remote-developer-jobs 
 
-12 - https://justremote.co/remote-developer-jobs (for everybody)
+12 - https://justremote.co/remote-developer-jobs 
 
-13 - https://weworkremotely.com/ (for everybody)
+13 - https://weworkremotely.com/ 
 
-14 - https://hired.com/talent (for everybody)
+14 - https://hired.com/talent 
 
-15 - https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting (for everybody)
+15 - https://www.flexjobs.com/remote-jobs/computer-it?category=Computer+%26+IT&tele_level%5B%5D=All+Telecommuting 
 
-16 - https://www.totaljobs.com/jobs/remote-developer (for everybody)
+16 - https://www.totaljobs.com/jobs/remote-developer 
 
-17 - https://www.nixa.io/developer (for everybody)
+17 - https://www.nixa.io/developer 
 
-18 - https://coodesh.com/vagas (for brazilians)
+18 - https://coodesh.com/vagas
 
-19 - https://portal.kula.jobs/ (for brasilians)
+19 - https://portal.kula.jobs/
 
-20 - https://soshace.com/jobs (for everybody)
+20 - https://soshace.com/jobs 
 
-21 - https://www.linkedin.com/jobs/ (for everybody)
+21 - https://www.linkedin.com/jobs/ 
 
-22 - https://himalayas.app/jobs (for everybody)
+22 - https://himalayas.app/jobs 
 
-23 - https://vanhack.com/jobs (for everybody)
+23 - https://vanhack.com/jobs 
 
-24 - https://seujob.tech/categorias/remotas/ (for brasilians)
+24 - https://seujob.tech/categorias/remotas/
 
-25 - https://loka.com/careers#openings (for everybody)
+25 - https://loka.com/careers#openings 
 
-26 - https://personal-jdln7y76.outsystemscloud.com/VagasTI/Vagas (for brazilians)
+26 - https://personal-jdln7y76.outsystemscloud.com/VagasTI/Vagas
+
+27 - https://providerit.compleo.com.br/
