@@ -54,3 +54,5 @@
 27 - https://providerit.compleo.com.br/
 
 28 - https://www.geekhunter.com.br/vagas
+
+29 - https://www.tecla.io/join
