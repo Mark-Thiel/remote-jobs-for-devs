@@ -36,3 +36,4 @@
 | 28 | GeekHunter | https://www.geekhunter.com.br/vagas |
 | 29 | Tecla | https://www.tecla.io/join |
 | 30 | WellFound | https://wellfound.com/role/r/software-engineer/ |
+| 31 | Beon.Tech | https://beon.tech/remote-jobs |
